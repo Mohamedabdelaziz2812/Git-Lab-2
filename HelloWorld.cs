@@ -1,6 +1,6 @@
 ﻿namespace HelloWorld
 {
-    public class HelloWorld
+    public class HelloJava
     {
         public static void PrintHelloWorld()
         {
