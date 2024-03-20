@@ -6,6 +6,10 @@
         {
             console.WriteLine("Hello Git");
         }
+ public static void PrintHellotarek()
+        {
+            console.WriteLine("Hello tarek");
+        }
         
     }
 }
