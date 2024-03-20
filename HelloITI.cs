@@ -9,6 +9,7 @@
  public static void PrintHellotarek()
         {
             console.WriteLine("Hello tarek");
+     console.WriteLine("Hello shalaby");
         }
         
     }
