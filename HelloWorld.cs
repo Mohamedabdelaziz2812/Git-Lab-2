@@ -6,5 +6,9 @@
         {
             console.WriteLine("Hello World");
         }
+        public static void PrintMyName()
+        {
+            Console.WriteLine("Mohamed abd elaziz");
+        }
     }
 }
