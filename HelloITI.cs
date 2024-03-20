@@ -2,9 +2,9 @@
 {
     public class HelloITI
     {
-        public static void PrintHelloITI()
+        public static void PrintHellpGit()
         {
-            console.WriteLine("Hello ITI");
+            console.WriteLine("Hello Git");
         }
         
     }
